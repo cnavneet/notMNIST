@@ -1,0 +1,14 @@
+*.pyc
+*~
+
+__pycache__
+myvenv
+notMNIST.pickle
+notMNIST_large.tar.gz
+notMNIST_sanit.pickle
+notMNIST_small.tar.gz
+notMNIST_large/
+notMNIST_small/
+.ipynb_checkpoints/
+/static
+.DS_Store
